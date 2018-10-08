@@ -6,7 +6,7 @@ body {
 }
 
 .icons {
-  border: 1px solid black;
+  border-radius: 2px;
   margin: 0 auto;
   width: 420px;
   background-color: #26A69A;
@@ -73,7 +73,7 @@ h4, h2 {
 
 .bus-list{
   background-color: #F5F5F5;
-  border: 1px solid black;
+  border-radius: 2px;
   display: table;
   width: 100%;
   padding: 10px 0;
