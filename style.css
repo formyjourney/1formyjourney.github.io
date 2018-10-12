@@ -5,9 +5,15 @@ body {
   font-family: Roboto, sans-serif;
 }
 
+.container {
+  margin: 0 auto;
+  width: 360px;
+}
+
 img{
   display: inherit;
   top: 0;
+  position: fixed;
 }
 
 .ul{
