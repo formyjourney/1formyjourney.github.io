@@ -10,10 +10,13 @@ body {
   width: 360px;
 }
 
+.header{
+  position:fixed;
+  top: 0;
+}
+
 img{
   display: inherit;
-  top: 0;
-  position: fixed;
 }
 
 .ul{
