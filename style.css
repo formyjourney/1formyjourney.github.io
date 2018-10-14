@@ -129,7 +129,7 @@ strong, b {
   line-height: 1em;
 }
 
-b, info {
+b, .info {
   display: inline;
 }
 ul.bus-list li{
