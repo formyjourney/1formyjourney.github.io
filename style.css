@@ -105,7 +105,7 @@ strong, b {
 
 .bus-stops {
   background-color: white;
-  margin-top: 66px;
+  margin-top: 60px;
 }
 
 .bus-list{
@@ -125,13 +125,14 @@ strong, b {
   margin-right: 5px;
   font-size: 24px;
   height: 24px;
-  vertical-align: right;
+  vertical-align: center;
   line-height: 1em;
 }
 
 b, .info {
   display: inline;
 }
+
 ul.bus-list li{
   display: table-row;
   height: 54px;
@@ -141,7 +142,8 @@ ul.bus-list li{
 ul.bus-list li > *{
   display: table-cell;
   margin: 0;
-  padding: 20px;
+  padding-top: 16px;
+  padding-bottom: 16px;
   vertical-align: middle;
 }
 ul.bus-list li > :first-child{
@@ -157,6 +159,7 @@ ul.bus-list .mad-list-text{
 
 ul.mad-list .info{
   padding-left: 16px;
+  padding-right:  16px;
   width: 1px;
   text-align: center;
   background: rgba(245, 245, 245, 1);
