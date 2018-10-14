@@ -157,12 +157,11 @@ ul.bus-list .mad-list-text{
   background: light-grey;
 }
 
-ul.mad-list .info{
+ul.bus-list .info{
   padding-left: 16px;
-  padding-right:  16px;
   width: 1px;
   text-align: center;
-  background: rgba(245, 245, 245, 1);
+  background-color: white;
 }
 
 .border-bottom{
