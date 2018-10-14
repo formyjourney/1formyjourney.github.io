@@ -134,7 +134,7 @@ b, .info {
 }
 ul.bus-list li{
   display: table-row;
-  height: 70px;
+  height: 54px;
   line-height: 1em;
 }
 
