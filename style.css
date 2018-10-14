@@ -106,6 +106,7 @@ strong, b {
 .bus-stops {
   background-color: white;
   margin-top: 26px;
+  height: 520px;
 }
 
 .bus-list{
